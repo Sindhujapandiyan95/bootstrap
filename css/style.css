@@ -1,0 +1,54 @@
+#navh{
+  font-size: 30px;
+  color: blue;
+  text-decoration: underline;
+}
+#navh:hover{
+  text-decoration:none;
+   color: green;
+}
+#navbarhead{
+margin-top:0px;
+  }
+ul li{
+  color: green;
+  text-decoration: none;
+}
+li:hover{
+  text-decoration: underline;
+  font-size: 20px;
+}
+.lead{
+  font-family: sofia;
+  font-size: 20px;
+  line-height: 10px;
+}
+.carousel .item {
+  height: 300px;
+  width:100%;
+}
+
+.item img {
+    min-height: 300px;
+    min-width: 1200px;
+
+}
+#hline{
+  padding-top: 20px;
+}
+.panel-title{
+  font-family: cursive;
+}
+.panel-body{
+  font-family: cursive;
+  font-size: 16px;
+  line-height: 30px;
+  }
+#foott{
+  background-color: gray;
+}
+
+#foot li{
+  display: inline;
+  font-size: 20px;
+}
